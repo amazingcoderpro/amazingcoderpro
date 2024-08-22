@@ -25,12 +25,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
-- [面试八股之操作系统](https://blog.amazingcoder.xyz/2023/10/08/technology/%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E4%B9%8B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/)
-- [python数据挖掘](https://blog.amazingcoder.xyz/2021/06/08/technology/python%E6%95%B0%E6%8D%AE%E6%8C%96%E6%8E%98/)
-- [机器学习算法四大金刚](https://blog.amazingcoder.xyz/2021/06/08/technology/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E7%AE%97%E6%B3%95%E5%9B%9B%E5%A4%A7%E9%87%91%E5%88%9A/)
-- [面试八股之网络](https://blog.amazingcoder.xyz/2022/10/08/technology/%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E4%B9%8B%E7%BD%91%E7%BB%9C/)
-- [高效使用搜索](https://blog.amazingcoder.xyz/2020/06/08/technology/%E9%AB%98%E6%95%88%E4%BD%BF%E7%94%A8%E6%90%9C%E7%B4%A2/)
-- [知者不惑，仁者不忧，勇者不惧](https://blog.amazingcoder.xyz/2020/06/08/essay/%E7%9F%A5%E8%80%85%E4%B8%8D%E6%83%91%EF%BC%8C%E4%BB%81%E8%80%85%E4%B8%8D%E5%BF%A7%EF%BC%8C%E5%8B%87%E8%80%85%E4%B8%8D%E6%83%A7/)
+- [编译安装Nginx](http://amazingcoderpro.github.io/2024/08/21/technology/%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85Nginx/)
+- [Linux系统管理常用命令](http://amazingcoderpro.github.io/2023/10/08/technology/Linux%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/)
+- [面试八股之操作系统](http://amazingcoderpro.github.io/2023/10/08/technology/%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E4%B9%8B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/)
+- [面试八股之编码](http://amazingcoderpro.github.io/2023/10/08/technology/%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E4%B9%8B%E7%BC%96%E7%A0%81/)
+- [面试问题汇总](http://amazingcoderpro.github.io/2023/08/19/technology/%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/)
+- [如何写卡片](http://amazingcoderpro.github.io/2023/06/08/softskills/%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%A1%E7%89%87/)
 <!-- BLOG-POST-LIST:END -->
 
 
