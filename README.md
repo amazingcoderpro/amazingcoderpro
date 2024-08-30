@@ -25,12 +25,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [学习新东西的 37 个最佳网站（转译）](http://amazingcoderpro.github.io/2024/08/30/softskills/%E5%AD%A6%E4%B9%A0%E6%96%B0%E4%B8%9C%E8%A5%BF%E7%9A%84%2037%20%E4%B8%AA%E6%9C%80%E4%BD%B3%E7%BD%91%E7%AB%99(%E8%BD%AC%E8%AF%91)/)
 - [编译安装Nginx](http://amazingcoderpro.github.io/2024/08/21/technology/%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85Nginx/)
 - [Linux系统管理常用命令](http://amazingcoderpro.github.io/2023/10/08/technology/Linux%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/)
 - [面试八股之操作系统](http://amazingcoderpro.github.io/2023/10/08/technology/%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E4%B9%8B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/)
 - [面试八股之编码](http://amazingcoderpro.github.io/2023/10/08/technology/%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E4%B9%8B%E7%BC%96%E7%A0%81/)
 - [面试问题汇总](http://amazingcoderpro.github.io/2023/08/19/technology/%E9%9D%A2%E8%AF%95%E9%97%AE%E9%A2%98%E6%B1%87%E6%80%BB/)
-- [如何写卡片](http://amazingcoderpro.github.io/2023/06/08/softskills/%E5%A6%82%E4%BD%95%E5%86%99%E5%8D%A1%E7%89%87/)
 <!-- BLOG-POST-LIST:END -->
 
 
