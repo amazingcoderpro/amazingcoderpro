@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amazing Coder</h1>
 <h3 align="center">A Python/Cpp developer from XIAN,CHINA</h3>
+<p align="center">I have been living seriously, constantly exploring, and committed to becoming a cultured and interesting developer.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amazingcoderpro&label=Profile%20views&color=3399FF&style=flat" alt="amazingcoderpro" /> 
 
