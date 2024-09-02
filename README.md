@@ -18,7 +18,7 @@
 ### 👀 Active Repo
 
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=amazingcoderpro&repo=python-baidusearch)](https://github.com/amazingcoderpro/python-baidusearch)
-[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=amazingcoderpro&repo=facebook_robot)](https://github.com/amazingcoderpro/facebook_robot)
+[![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=amazingcoderpro&repo=simple_interpreter)](https://github.com/amazingcoderpro/simple_interpreter)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=amazingcoderpro&repo=flight-delay-prediction)](https://github.com/amazingcoderpro/flight-delay-prediction)
 [![ReadMe Card](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/pin/?username=amazingcoderpro&repo=log_config)](https://github.com/amazingcoderpro/log_config)
 
