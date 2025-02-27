@@ -27,11 +27,11 @@
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
 - [关于知识和学习的一点感悟](http://amazingcoderpro.github.io/2024/11/16/softskills/%E5%85%B3%E4%BA%8E%E7%9F%A5%E8%AF%86%E5%92%8C%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%82%9F/)
-- [发布自己开发的 python 包到 pypi](http://amazingcoderpro.github.io/2024/11/14/technology/%E5%8F%91%E5%B8%83%E8%87%AA%E5%B7%B1%E5%BC%80%E5%8F%91%E7%9A%84%20python%20%E5%8C%85%E5%88%B0%20pypi/)
 - [鸿蒙 HarmonyOS ArkTS 实现 2048 小游戏](http://amazingcoderpro.github.io/2024/11/01/technology/%E9%B8%BF%E8%92%99%20HarmonyOS%20ArkTS%20%E5%AE%9E%E7%8E%B0%202048%20%E5%B0%8F%E6%B8%B8%E6%88%8F/)
-- [学习新东西的 37 个最佳网站（转译）](http://amazingcoderpro.github.io/2024/08/30/softskills/%E5%AD%A6%E4%B9%A0%E6%96%B0%E4%B8%9C%E8%A5%BF%E7%9A%84%2037%20%E4%B8%AA%E6%9C%80%E4%BD%B3%E7%BD%91%E7%AB%99(%E8%BD%AC%E8%AF%91)/)
 - [编译安装Nginx](http://amazingcoderpro.github.io/2024/08/21/technology/%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85Nginx/)
 - [Linux系统管理常用命令](http://amazingcoderpro.github.io/2023/10/08/technology/Linux%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/)
+- [面试八股之操作系统](http://amazingcoderpro.github.io/2023/10/08/technology/%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E4%B9%8B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/)
+- [面试八股之编码](http://amazingcoderpro.github.io/2023/10/08/technology/%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E4%B9%8B%E7%BC%96%E7%A0%81/)
 <!-- BLOG-POST-LIST:END -->
 
 
