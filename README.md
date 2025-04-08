@@ -26,12 +26,12 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [程序员技术成长沉思：破解代码之外的核心竞争力2--拥抱 AI](http://amazingcoderpro.github.io/2025/04/07/softskills/%E7%A8%8B%E5%BA%8F%E5%91%98%E6%8A%80%E6%9C%AF%E6%88%90%E9%95%BF%E6%B2%89%E6%80%9D%EF%BC%9A%E7%A0%B4%E8%A7%A3%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B2--%E6%8B%A5%E6%8A%B1%20AI/)
+- [程序员技术成长沉思：破解代码之外的核心竞争力1--技术修炼](http://amazingcoderpro.github.io/2025/04/06/softskills/%E7%A8%8B%E5%BA%8F%E5%91%98%E6%8A%80%E6%9C%AF%E6%88%90%E9%95%BF%E6%B2%89%E6%80%9D%EF%BC%9A%E7%A0%B4%E8%A7%A3%E4%BB%A3%E7%A0%81%E4%B9%8B%E5%A4%96%E7%9A%84%E6%A0%B8%E5%BF%83%E7%AB%9E%E4%BA%89%E5%8A%9B1--%E6%8A%80%E6%9C%AF%E4%BF%AE%E7%82%BC/)
 - [关于知识和学习的一点感悟](http://amazingcoderpro.github.io/2024/11/16/softskills/%E5%85%B3%E4%BA%8E%E7%9F%A5%E8%AF%86%E5%92%8C%E5%AD%A6%E4%B9%A0%E7%9A%84%E4%B8%80%E7%82%B9%E6%84%9F%E6%82%9F/)
 - [鸿蒙 HarmonyOS ArkTS 实现 2048 小游戏](http://amazingcoderpro.github.io/2024/11/01/technology/%E9%B8%BF%E8%92%99%20HarmonyOS%20ArkTS%20%E5%AE%9E%E7%8E%B0%202048%20%E5%B0%8F%E6%B8%B8%E6%88%8F/)
 - [编译安装Nginx](http://amazingcoderpro.github.io/2024/08/21/technology/%E7%BC%96%E8%AF%91%E5%AE%89%E8%A3%85Nginx/)
 - [Linux系统管理常用命令](http://amazingcoderpro.github.io/2023/10/08/technology/Linux%E7%B3%BB%E7%BB%9F%E7%AE%A1%E7%90%86%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4/)
-- [面试八股之操作系统](http://amazingcoderpro.github.io/2023/10/08/technology/%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E4%B9%8B%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/)
-- [面试八股之编码](http://amazingcoderpro.github.io/2023/10/08/technology/%E9%9D%A2%E8%AF%95%E5%85%AB%E8%82%A1%E4%B9%8B%E7%BC%96%E7%A0%81/)
 <!-- BLOG-POST-LIST:END -->
 
 
