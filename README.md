@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amazing Coder</h1>
-<h3 align="center">A Python/Cpp developer from XIAN,CHINA</h3>
+<h3 align="center">A back-end developer from XIAN,CHINA</h3>
 <p align="center">I have been living seriously, constantly exploring, and committed to becoming a cultured and interesting developer.</p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=amazingcoderpro&label=Profile%20views&color=3399FF&style=flat" alt="amazingcoderpro" /> 
@@ -56,6 +56,7 @@
 )](https://blog.amazingcoder.xyz/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wcadaydayup@gmail.com)
 <br/>
+<!-- <img src="https://blog.amazingcoder.xyz/images/amaizngcoder_gongzhonghaosouyisou.png" style="width:240px;height:90px;" /> -->
+<img style="width:240px;height:90px;" alt="Clipboard_Screenshot_1744102195" src="https://github.com/user-attachments/assets/de12081e-6aef-4132-bbfb-4c4d1d156f62" />
 
-<img src="https://blog.amazingcoder.xyz/images/amaizngcoder_gongzhonghaosouyisou.png" style="width:240px;height:90px;" />
 <p>扫码关注，一起学习进步</p>
