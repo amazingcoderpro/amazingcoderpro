@@ -57,6 +57,9 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:wcadaydayup@gmail.com)
 <br/>
 <!-- <img src="https://blog.amazingcoder.xyz/images/amaizngcoder_gongzhonghaosouyisou.png" style="width:240px;height:90px;" /> -->
+<p>扫码关注，一起学习进步</p>
 <img style="width:240px;height:90px;" alt="Clipboard_Screenshot_1744102195" src="https://github.com/user-attachments/assets/de12081e-6aef-4132-bbfb-4c4d1d156f62" />
 
-<p>扫码关注，一起学习进步</p>
+
+<p>戳这里⬇️，分身陪你聊</p> 
+<a href="https://yuanqi.tencent.com/agent/H2epgKr3eZiy/" target="_blank"> <img src="https://github.com/amazingcoderpro/amazingcoderpro.github.io/blob/main/images/xiaoqingkatong.jpg" alt="XiaoQing" width="100" height="80"/></a>
